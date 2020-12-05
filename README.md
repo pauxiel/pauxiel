@@ -7,5 +7,6 @@ I am **obayuwana Paul**
 - 🌱 I specialize in css and javascript 
 - 👯 I’m a jamstack/react enthusiast 
 - 😎 follow me on twitter https://twitter.com/obayuwanapaul
+- formally using https://github.com/obayuwanapaul
    
 
