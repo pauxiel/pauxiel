@@ -20,7 +20,19 @@ When I am not coding or doing anything serious. I spend my free time surfing the
 
 
 
+
+
 ---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://obayuwanapaul.hashnode.dev)
+
+---
+
 
 
 
