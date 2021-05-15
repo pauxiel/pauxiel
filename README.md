@@ -27,6 +27,11 @@ When I am not coding or doing anything serious. I spend my free time surfing the
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Node.Js server with the following response: A JSON Object and an HTML Page](https://obayuwanapaul.hashnode.dev/creating-a-nodejs-server-with-the-following-response-a-json-object-and-an-html-page)
+- [My recent open-source Project: Dark mode with React and Chakra-UI](https://obayuwanapaul.hashnode.dev/my-recent-open-source-project-dark-mode-with-react-and-chakra-ui)
+- [My top 5 reasons for blogging](https://obayuwanapaul.hashnode.dev/my-top-5-reasons-for-blogging)
+- [Building my personal Portfolio: Plans and what I learned while building](https://obayuwanapaul.hashnode.dev/building-my-personal-portfolio-plans-and-what-i-learned-while-building)
+- [My Current Preferred Tech Stack](https://obayuwanapaul.hashnode.dev/my-current-preferred-tech-stack)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://obayuwanapaul.hashnode.dev)
