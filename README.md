@@ -40,12 +40,17 @@ When I am not coding or doing anything serious. I spend my free time surfing the
 
 
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauxiel&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![pauxiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauxiel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m a frontend developer 
-- 🌱 I specialize in css and javascript 
-- 👯 I’m a jamstack/react enthusiast 
-- 😎 follow me on twitter https://twitter.com/obayuwanapaul
-- formally using https://github.com/obayuwanapaul
+
+
+
+
+
    
 
