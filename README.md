@@ -27,11 +27,11 @@ When I am not coding or doing anything serious. I spend my free time surfing the
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [5 helpful resources that  can improve your personal portfolio, Linkedin and resume](https://obayuwanapaul.hashnode.dev/5-helpful-resources-that-can-improve-your-personal-portfolio-linkedin-and-resume)
 - [I hate CSS as a developer 😬. How do I go about it 🥴](https://obayuwanapaul.hashnode.dev/i-hate-css-as-a-developer-how-do-i-go-about-it)
 - [Free resources to get a pre-crafted tailwind, chakraui, and bootstrap component](https://obayuwanapaul.hashnode.dev/free-resources-to-get-a-pre-crafted-tailwind-chakraui-and-bootstrap-component)
 - [Creating a Node.Js server with the following response: A JSON Object and an HTML Page](https://obayuwanapaul.hashnode.dev/creating-a-nodejs-server-with-the-following-response-a-json-object-and-an-html-page)
 - [My recent open-source Project: Dark mode with React and Chakra-UI](https://obayuwanapaul.hashnode.dev/my-recent-open-source-project-dark-mode-with-react-and-chakra-ui)
-- [My top 5 reasons for blogging](https://obayuwanapaul.hashnode.dev/my-top-5-reasons-for-blogging)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://obayuwanapaul.hashnode.dev)
