@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Obayuwana</h1>
 <h3 align="center">Solution-oriented and problem solver with 2 years of experience building web applications. skilled in communication, collaboration, and technical documentation</h3>
 
-- 🔭 I’m currently working on [a Twitter clone](https://github.com/pauxiel/Twitter-clone)
+- 🔭 I’m currently working on creating an [online community app](https://github.com/pauxiel/circle)
 
 - 📝 I regularly write articles on [https://obayuwanapaul.hashnode.dev/](https://obayuwanapaul.hashnode.dev/)
 
