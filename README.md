@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **obayuwanap@gmail.com**
 
-- 📄 Know about my experiences [view Resume](https://drive.google.com/file/d/1Xq8OzO2Ku1vc6DYY4mQdhlYjF_nmhZl-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
